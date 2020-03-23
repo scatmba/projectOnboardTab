@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se9e4f4755a84081b67b73fd299982a9",
+    "_text_": "· Planned depth is 22,349' MD\u000b<br>· Do not exceed 100'/hr ROP due to hole cleaning issue\u000b<br>· Suspect loss zone at ~23,050' MD\u000b<br>· LCM pill in slug pit 1\u000b\n",
+    "_top_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "richTextMainRigFloor",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h4c18f26bebd4d81a73c73c2921aed74",
+    "linkskin": "sc2bbfc3d08949229bccdb6312ce9ffd",
+    "name": "kony.ui.RichText",
+    "parent": "flxMainRigFloorSubdata",
+    "pf": "frmDailyInstructions",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

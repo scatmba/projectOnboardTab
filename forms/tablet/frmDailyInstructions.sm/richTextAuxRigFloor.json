@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se9e4f4755a84081b67b73fd299982a9",
+    "_text_": "· Shuffle the 5-7/8 XTM57 pipe from rows 30-33 to 57-60\u000b<BR>· Pick up 14\" liner - 30 stands and rack in rows 5-9\u000b<BR>· Strap cement assembly",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "richTextAuxRigFloor",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ibaa2ec86a0846729899d9ca2ded7b5d",
+    "linkskin": "sc2bbfc3d08949229bccdb6312ce9ffd",
+    "name": "kony.ui.RichText",
+    "parent": "flxAuxRigFloorSubdata",
+    "pf": "frmDailyInstructions",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

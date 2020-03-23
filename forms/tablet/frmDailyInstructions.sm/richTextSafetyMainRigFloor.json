@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se9e4f4755a84081b67b73fd299982a9",
+    "_text_": "\n· Use JBD and strictly enforce Red Zone Management\n",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "richTextSafetyMainRigFloor",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bfa92171e6ce45fd87787cdb954577ed",
+    "linkskin": "sc2bbfc3d08949229bccdb6312ce9ffd",
+    "name": "kony.ui.RichText",
+    "parent": "flxSafetyMainRigFloorSubdata",
+    "pf": "frmDailyInstructions",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}
