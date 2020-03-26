@@ -1,0 +1,208 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_responsiveData_": {},
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "s6ec4e1728a746b5991e322e6833ffa0",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "94.50%"
+    },
+    "_windows8_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "desktopHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g148cb3d2d414128bc2a4e792e4e738e",
+                "srcKUID": "f4128f46fda2428689b1629eb0694b09",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e50bc9fe1585426dae8f42f767660ad2",
+                "srcKUID": "gd569ec70bb2410093a65a55b611a3cc",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxImgTranceOcean": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g7903676888f456b94aa4f59fd122c5d",
+                "srcKUID": "d0d6a9c898b34706857848d23e5ac220",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b4": {
+                    "width": {
+                        "type": "string",
+                        "value": "170dp"
+                    }
+                }
+            },
+            "width": {}
+        },
+        "flxSub": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b487225de52b4ddc9d5132623834d3fc",
+                "srcKUID": "jbbeca46c1ac410193c4eb2c7f001823",
+                "wType": "FlexContainer"
+            },
+            "responsiveData": {
+                "b4": {
+                    "right": {
+                        "type": "string",
+                        "value": "120dp"
+                    }
+                }
+            },
+            "right": {}
+        },
+        "imgBell": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cbb2d617c0264f97986073fa412e9ea4",
+                "srcKUID": "c70275d09645446ba697689730d00c41",
+                "wType": "Image"
+            }
+        },
+        "imgPerson": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d6d625de39834107b2a8c44c0fe67a94",
+                "srcKUID": "i38bbadc6eef4d1fb12e5dfde9f32d62",
+                "wType": "Image"
+            },
+            "height": {},
+            "responsiveData": {
+                "b4": {
+                    "height": {
+                        "type": "string",
+                        "value": "48dp"
+                    },
+                    "right": {
+                        "type": "string",
+                        "value": "40dp"
+                    },
+                    "width": {
+                        "type": "string",
+                        "value": "48dp"
+                    }
+                }
+            },
+            "right": {},
+            "width": {}
+        },
+        "imgSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f8a91b34e83c460c86f00f7c531bc0f0",
+                "srcKUID": "c3cbba3ec4e54a2aa4b1f266fe3b54e6",
+                "wType": "Image"
+            }
+        },
+        "imgTransocean": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c7e26e5b49304df0bb8ab786f2244268",
+                "srcKUID": "d7efd63a51504b928d29c5fdf7d24827",
+                "wType": "Image"
+            },
+            "left": {},
+            "responsiveData": {
+                "b4": {
+                    "left": {
+                        "type": "string",
+                        "value": "0dp"
+                    }
+                }
+            }
+        },
+        "lblName": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c6ed2248dfcf4c98903f5279783b448e",
+                "srcKUID": "j63377e1c3474792adfdac0730ca8976",
+                "wType": "Label"
+            }
+        },
+        "lblRole": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f2f1d582fa2846378c2dccb951502779",
+                "srcKUID": "adcec7f93c584c659bcadea3548dde5c",
+                "wType": "Label"
+            },
+            "responsiveData": {
+                "b4": {
+                    "right": {
+                        "type": "string",
+                        "value": "120dp"
+                    }
+                }
+            },
+            "right": {}
+        }
+    },
+    "enablescrolling": true,
+    "id": "desktopHeader",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "g148cb3d2d414128bc2a4e792e4e738e",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexContainer0b20b3eca046c45",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "f4128f46fda2428689b1629eb0694b09",
+    "wType": "UserWidgetInstance"
+}
